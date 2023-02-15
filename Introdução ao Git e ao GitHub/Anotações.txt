@@ -2,4 +2,7 @@ Link para Download do Git: https://git-scm.com/downloads
  
 O GitBash é um  terminal extendido para otimizar o uso do Git.
 
-No curso de introdução a Git e GitHub foi pensado em introduzir o aluno ao básico e os príncipios do Git.
+No curso de introdução a Git e GitHub foi pensado em introduzir o aluno ao básico e os príncipios do Git, onde também foi abordado como criar repositórios, 
+como exclui-los e como commitar esse repositório sempre que foi alterado. Outro ponto abordado nas aulas foi em como utilizar os repositórios tanto no GitBash
+como no GitHub, como altera-lo na máquina e em seguida altera-lo em nuvem, como clonar repositórios da nuvem para a máquina e da maquina para a nuvem, além das boas
+práticas que são necessárias para que o Git funcione corretamente.
